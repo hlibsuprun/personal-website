@@ -1,0 +1,4 @@
+{
+  "extends": ["next", "airbnb-base", "prettier"],
+  "rules": {}
+}
